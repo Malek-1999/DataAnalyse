@@ -1,6 +1,6 @@
 ## *Analyze Your Runkeeper Fitness Data* 🚴
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malek-1999/DataAnalyse/main?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malek-1999/DataAnalyse/main?labpath=notebook.ipynb)
 
 ### :file_folder: Introduction :
 Avec l'explosion de la popularité des trackers de fitness, les coureurs du monde entier collectent des données avec des gadgets (smartphones, montres, etc.) pour rester motivés. Ils cherchent des réponses à des questions telles que :
