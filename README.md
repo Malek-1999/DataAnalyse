@@ -66,3 +66,4 @@ Pour ce faire, nous allons créer deux tables :
 ![img](./img/10.1.PNG) 
 ###### Table 2 : Tableau récapitulatif des differentes activités 
 ![img](./img/10.2.PNG) 
+***
