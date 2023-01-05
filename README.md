@@ -1,4 +1,4 @@
-## *Analyze Your Runkeeper Fitness Data* 🚴
+## *Project : Analyze Your Runkeeper Fitness Data* 🚴
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malek-1999/DataAnalyse/main?labpath=notebook.ipynb)
 
@@ -66,4 +66,19 @@ Pour ce faire, nous allons créer deux tables :
 ![img](./img/10.1.PNG) 
 ###### Table 2 : Tableau récapitulatif des differentes activités 
 ![img](./img/10.2.PNG) 
+***
+### :green_book: Conclusion générale:
+Aprés avoir traité ce dataset, on remarque en premier lieu que d'aprés le tableau ci dessous, l'activité qui a le plus d'impact sur notre courreur c'est la course. 
+
+![img](./img/10.1.PNG) 
+Et que notre courreur s'entraine généralement en une intensité vigoureuse tout au long de ses activités.
+
+![img](./img/9.png)
+
+De plus, on constate aussi que ce courreur a fixé comme objectif de courir 1000 km par an et il l'a atteint deux fois dans l'année 2015 et 2017 (comme expliqué dans la figure ci dessous, alors que dans les autres années il a été presque proche de son objectif. 
+
+![img](./img/7.png)
+
+En dernier lieu, on remarque que notre courreur a progréssé tout au long de ces années comme c'est expliqué à travers la ligne rouge dans la courbe suivante :
+![img](./img/8.png)
 ***
