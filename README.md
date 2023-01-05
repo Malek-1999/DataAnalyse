@@ -30,7 +30,7 @@ Ce projet analyse les données d'un coureur sur sept ans collectées à partir d
 > runkeeper_file = 'datasets/cardioActivities.csv'
 
 ![img](./img/tab.png)
-##### 📈 Visualisation des données liées à chaque type de course :
+##### 📈 Visualisation des données liées à l'activité de course :
 
 ![img](./img/4.png)
 
