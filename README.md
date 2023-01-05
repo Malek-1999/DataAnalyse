@@ -45,7 +45,6 @@ Traçons les moyennes à long terme de la distance parcourue et de la fréquence
 Pour se motiver à courir régulièrement, cet utilisateur a fixé comme objectif de courir 1000 km par an:
 
 ![img](./img/7.png)
-On remarque alors qu'il a atteint son objectif de 1000 km deux fois en 2015 et en 2017.
 
 #####  Est-ce que il est entrain de progresser? 
 Pour répondre à cette question, nous allons décomposer la course de distance hebdomadaire et la comparer visuellement aux données brutes. Une ligne de tendance rouge représentera la distance hebdomadaire parcourue
@@ -71,6 +70,7 @@ Pour ce faire, nous allons créer deux tables :
 Aprés avoir traité ce dataset, on remarque en premier lieu que d'aprés le tableau ci dessous, l'activité qui a le plus d'impact sur notre courreur c'est la course. 
 
 ![img](./img/10.1.PNG) 
+
 Et que notre courreur s'entraine généralement en une intensité vigoureuse tout au long de ses activités.
 
 ![img](./img/9.png)
@@ -79,6 +79,6 @@ De plus, on constate aussi que ce courreur a fixé comme objectif de courir 1000
 
 ![img](./img/7.png)
 
-En dernier lieu, on remarque que notre courreur a progréssé tout au long de ces années comme c'est expliqué à travers la ligne rouge dans la courbe suivante :
+En dernier lieu, on remarque que notre courreur a progréssé tout au long des 7 années comme c'est expliqué à travers la ligne rouge dans la courbe suivante :
 ![img](./img/8.png)
 ***
