@@ -75,7 +75,7 @@ Et que notre courreur s'entraine généralement en une intensité vigoureuse tou
 
 ![img](./img/9.png)
 
-De plus, on constate aussi que ce courreur a fixé comme objectif de courir 1000 km par an et il l'a atteint deux fois dans l'année 2015 et 2017 (comme expliqué dans la figure ci dessous, alors que dans les autres années il a été presque proche de son objectif. 
+De plus, on constate aussi que ce courreur a fixé comme objectif de courir 1000 km par an et il l'a atteint deux fois dans l'année 2015 et 2017 (comme expliqué dans la figure ci dessous, alors que dans les autres années il a été presque proche de son objectif. Ceci est classé parmi les meilleures réalisations de notre courreur.
 
 ![img](./img/7.png)
 
